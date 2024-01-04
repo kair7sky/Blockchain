@@ -33,6 +33,8 @@ https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/LICENSE
 Demo screen
 ![image](https://github.com/kair7sky/Blockchain/assets/118976474/041dca2e-0a6b-4dcc-86ae-3cfa7e34e3e7)
 ![image](https://github.com/kair7sky/Blockchain/assets/118976474/b27b0fcd-a467-4512-b4a5-7249c14a15b9)
+![image](https://github.com/kair7sky/Blockchain/assets/118976474/c8220a90-97a5-4192-a55c-00ff442dc0f8)
+
 
 ## Bonus Task
 ![image](https://github.com/kair7sky/Blockchain/assets/118976474/694e0b0b-9976-4509-b3a0-7a635dde2dcf)
