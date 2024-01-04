@@ -1,10 +1,9 @@
 # Token AITU Abylaikhan
-Usage
+
+## Usage
 This project is an Ethereum ERC-20 token created using Remix and OpenZeppelin. It provides basic functionalities for an ERC-20 token and includes additional features like retrieving transaction information.
 
 ## Prerequisites
-
-
 Remix IDE or your preferred Ethereum development environment.
 Deployment
 Open Remix and load the AbylaikhanToken.sol file.
